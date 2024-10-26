@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a0d791a-0241-4556-a7a5-1adb310cb4ef" name="Changes" comment="Square wave video notebook updated.">
-      <change afterPath="$PROJECT_DIR$/EncoderTester_datAcq.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EncoderTester_datAnal.ipynb" afterDir="false" />
+    <list default="true" id="4a0d791a-0241-4556-a7a5-1adb310cb4ef" name="Changes" comment="Linear Encoder data analysis NB rev1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearEncoderTesting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LinearEncoderTesting.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datAnal_DispSenseThermal.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/datAnal_DispSenseThermal.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EncoderTester_datAnal.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EncoderTester_datAnal.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +88,7 @@
       <workItem from="1725463827823" duration="83212000" />
       <workItem from="1727238262688" duration="2753000" />
       <workItem from="1728443948475" duration="653000" />
-      <workItem from="1729568363591" duration="9906000" />
+      <workItem from="1729568363591" duration="65679000" />
     </task>
     <task id="LOCAL-00001" summary="Square wave video notebook updated.">
       <option name="closed" value="true" />
@@ -101,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727275774593</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Linear Encoder data analysis NB rev1">
+      <option name="closed" value="true" />
+      <created>1729612027877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729612027877</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Square wave video notebook updated." />
-    <option name="LAST_COMMIT_MESSAGE" value="Square wave video notebook updated." />
+    <MESSAGE value="Linear Encoder data analysis NB rev1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linear Encoder data analysis NB rev1" />
   </component>
 </project>
